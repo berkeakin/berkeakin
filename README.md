@@ -6,7 +6,11 @@ Hello, my name is Berke Akın. I am Frontend Web Developer, Graphic Designer. I 
 
 ## 💪 My Skills
 
-HTML / CSS : %100 - PHP : %20 - Photoshop : %90 
+HTML / CSS : %90
+
+PHP : %20  
+
+Photoshop : %70 
 
 ## 📫 Contact
 
